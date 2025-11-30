@@ -25,6 +25,7 @@ list_of_files = [
     "requirements.txt",
     "research/trial.ipynb",
     "templates/index.html",
+    "main.py"
 ]
 
 for filepath in list_of_files:
